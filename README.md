@@ -2,9 +2,6 @@
 
 
 
-### Function
-1. check GPU process time
-
-
-### Example
-1. torchvision ROI pooling
+### GPU
+- check GPU process time
+- 
