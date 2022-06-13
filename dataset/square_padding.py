@@ -17,3 +17,6 @@ if __name__ == "__main__":
 
 	cv2.imshow('r', padded)
 	cv2.waitKey(0)
+
+	
+	
